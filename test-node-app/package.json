@@ -1,0 +1,9 @@
+{
+  "name": "test-node-app",
+  "version": "1.0.0",
+  "description": "Throwaway app for testing Ansible deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
